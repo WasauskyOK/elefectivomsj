@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elefectivomsj/static/css/main.ceacace1.chunk.css",
+    "main.js": "/elefectivomsj/static/js/main.952a735a.chunk.js",
+    "main.js.map": "/elefectivomsj/static/js/main.952a735a.chunk.js.map",
+    "runtime-main.js": "/elefectivomsj/static/js/runtime-main.cdfec024.js",
+    "runtime-main.js.map": "/elefectivomsj/static/js/runtime-main.cdfec024.js.map",
+    "static/js/2.a68560bc.chunk.js": "/elefectivomsj/static/js/2.a68560bc.chunk.js",
+    "static/js/2.a68560bc.chunk.js.map": "/elefectivomsj/static/js/2.a68560bc.chunk.js.map",
+    "index.html": "/elefectivomsj/index.html",
+    "precache-manifest.d743ffed4f578d80e3baab7eced94690.js": "/elefectivomsj/precache-manifest.d743ffed4f578d80e3baab7eced94690.js",
+    "service-worker.js": "/elefectivomsj/service-worker.js",
+    "static/css/main.ceacace1.chunk.css.map": "/elefectivomsj/static/css/main.ceacace1.chunk.css.map",
+    "static/media/WhatsApp Mensaje Recibido.mp3": "/elefectivomsj/static/media/WhatsApp Mensaje Recibido.0f93fa9c.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdfec024.js",
+    "static/js/2.a68560bc.chunk.js",
+    "static/css/main.ceacace1.chunk.css",
+    "static/js/main.952a735a.chunk.js"
+  ]
+}
