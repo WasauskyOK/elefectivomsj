@@ -279,9 +279,14 @@ export default class  Globalchat extends Component {
           //element.scrollIntoView({block: "end", behavior: "smooth"});
             //const altura=element.clientHeight;
                 //const altura=element.offsetHeight;
-            const altura=element.scrollHeight;
+                if(element && element.scrollHeight){
+                    
+                    const altura=element.scrollHeight;
+                    element.scrollTop=altura;        
+                }
+            
             //alert(altura);
-            element.scrollTop=altura;
+           // element.scrollTop=altura;
       }
 
     render() {
